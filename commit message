@@ -1,8 +1,8 @@
-fix: a forget password
+fix: a bug in auto reply
 
 
-the login in system users couldnot return his email if he forget password
-fix by add a forget password  recovery to retrun password by use email or phone number 
+when a user send amessage it take long time to auto reply 
+fix this by write another script which is faster
 
 
 If you use an issue tracker, put references to them at the bottom, like this:
